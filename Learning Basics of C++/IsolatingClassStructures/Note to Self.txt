@@ -1,0 +1,4 @@
+Start a new project and save each of these files seperately within it.
+Also - May need to get the developer command prompt working, same as with desktop computer, 
+already downloaded Group Policy Editor.
+Run gpedit.msc and get this sorted!

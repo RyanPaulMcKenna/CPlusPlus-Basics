@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1470874599 source:c:\users\ryanm\desktop\learning c++\multipleobjects\main.cpp
+	<iostream>
+	<string>
+
+1470922349 source:c:\users\ryanm\desktop\learning c++\initalizeclassmembers\main.cpp
+	<iostream>
+	<string>
+

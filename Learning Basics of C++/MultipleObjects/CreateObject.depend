@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470874599 source:c:\users\ryanm\desktop\learning c++\multipleobjects\main.cpp
+	<iostream>
+	<string>
+
