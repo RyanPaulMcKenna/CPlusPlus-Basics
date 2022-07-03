@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop/STEP4/bin/Tutorial.exe
+C:\Users\admin\Desktop/STEP4/include/TutorialConfig.h
+C:\Users\admin\Desktop/STEP4/lib/MathFunctions.lib
+C:\Users\admin\Desktop/STEP4/include/MathFunctions.h

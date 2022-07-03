@@ -2,13 +2,13 @@
 
 int main()
 {
-Calculator* pCalc = new Calculator;
-pCalc -> launch();
+    Calculator* pCalc = new Calculator;
+    pCalc -> launch();
 
-while ( pCalc -> run() )
-    {
-    pCalc -> readInput();
-    pCalc -> writeOutput();
-    }
-return 0;
+        while ( pCalc -> run() )
+        {
+            pCalc -> readInput();
+            pCalc -> writeOutput();
+        }
+    return 0;
 }

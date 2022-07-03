@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/ce11264917523119b51a19fa80211450/googletest-populate.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/334309bf533001fe6d8abc0ad178c4e6/googletest-populate-complete.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-build.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-configure.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-download.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-install.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-mkdir.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-patch.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-test.rule
+C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-update.rule

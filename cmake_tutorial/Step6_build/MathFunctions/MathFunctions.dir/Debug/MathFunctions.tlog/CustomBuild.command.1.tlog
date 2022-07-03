@@ -1,0 +1,20 @@
+^C:\USERS\ADMIN\DESKTOP\CPP-BASICS\CMAKE_TUTORIAL\STEP6_BUILD\CMAKEFILES\5D8225CA726F6C0779A77E62A94103FC\TABLE.H.RULE
+setlocal
+Debug\MakeTable.exe C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/Table.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DESKTOP\CPP-BASICS\CMAKE_TUTORIAL\STEP6\MATHFUNCTIONS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6 -BC:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build --check-stamp-file C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

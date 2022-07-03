@@ -1,0 +1,4 @@
+C:/Users/admin/Desktop/cmake_tutorial/Step3_build/CMakeFiles/Tutorial.dir
+C:/Users/admin/Desktop/cmake_tutorial/Step3_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Desktop/cmake_tutorial/Step3_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/admin/Desktop/cmake_tutorial/Step3_build/MathFunctions/CMakeFiles/MathFunctions.dir

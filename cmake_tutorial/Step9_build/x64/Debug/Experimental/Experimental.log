@@ -1,0 +1,45 @@
+﻿     Site: DESKTOP-1AE06QR
+     Build name: Win32-MSBuild
+  Create new tag: 20220521-0225 - Experimental
+  Configure project
+     Each . represents 1024 bytes of output
+      . Size of output: 0K
+  Build project
+     Each symbol represents 1024 bytes of output.
+     '!' represents an error and '*' a warning.
+      . Size of output: 1K
+     0 Compiler errors
+     0 Compiler warnings
+  Test project C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build
+      Start 1: Runs
+  1/9 Test #1: Runs .............................   Passed    0.03 sec
+      Start 2: Usage
+  2/9 Test #2: Usage ............................   Passed    0.01 sec
+      Start 3: Comp4
+  3/9 Test #3: Comp4 ............................   Passed    0.01 sec
+      Start 4: Comp9
+  4/9 Test #4: Comp9 ............................   Passed    0.01 sec
+      Start 5: Comp5
+  5/9 Test #5: Comp5 ............................   Passed    0.01 sec
+      Start 6: Comp7
+  6/9 Test #6: Comp7 ............................   Passed    0.01 sec
+      Start 7: Comp25
+  7/9 Test #7: Comp25 ...........................   Passed    0.01 sec
+      Start 8: Comp-25
+  8/9 Test #8: Comp-25 ..........................   Passed    0.01 sec
+      Start 9: Comp0.0001
+  9/9 Test #9: Comp0.0001 .......................   Passed    0.01 sec
+  
+  100% tests passed, 0 tests failed out of 9
+  
+  Total Test time (real) =   0.10 sec
+  Performing coverage
+   Cannot find any coverage files. Ignoring Coverage request.
+  Submit files
+     SubmitURL: http://my.cdash.org/submit.php?project=CMakeTutorial
+     Uploaded: C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build/Testing/20220521-0225/Configure.xml
+     Uploaded: C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build/Testing/20220521-0225/Build.xml
+     Uploaded: C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build/Testing/20220521-0225/Test.xml
+     Uploaded: C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build/Testing/20220521-0225/Done.xml
+     Submission successful
+  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9/CMakeLists.txt

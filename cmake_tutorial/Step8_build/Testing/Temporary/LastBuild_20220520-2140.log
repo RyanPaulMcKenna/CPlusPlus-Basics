@@ -1,0 +1,15 @@
+Microsoft (R) Build Engine version 16.11.1+3e40a09f8 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Checking Build System
+  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/MathFunctions/CMakeLists.txt
+  MakeTable.cxx
+  MakeTable.vcxproj -> C:\Users\admin\Desktop\cpp-Basics\cmake_tutorial\Step8_build\MathFunctions\Debug\MakeTable.exe
+  Generating Table.h
+  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/MathFunctions/CMakeLists.txt
+  mysqrt.cxx
+  MathFunctions.vcxproj -> C:\Users\admin\Desktop\cpp-Basics\cmake_tutorial\Step8_build\MathFunctions\Debug\MathFunctions.lib
+  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/CMakeLists.txt
+  Tutorial.cxx
+  Tutorial.vcxproj -> C:\Users\admin\Desktop\cpp-Basics\cmake_tutorial\Step8_build\Debug\Tutorial.exe
+  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/CMakeLists.txt

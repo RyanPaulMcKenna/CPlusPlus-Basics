@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\PROJECTS\CPP-BASICS\CMAKE_TUTORIAL\STEP4_BUILD\CMAKEFILES\315B3C94AEFBE46B74FF5842F71F797D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/admin/Desktop/projects/cpp-Basics/cmake_tutorial/Step4 -BC:/Users/admin/Desktop/projects/cpp-Basics/cmake_tutorial/Step4_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/admin/Desktop/projects/cpp-Basics/cmake_tutorial/Step4_build/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/CMakeFiles/Tutorial.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/CMakeFiles/RUN_TESTS.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/CMakeFiles/INSTALL.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/CMakeFiles/MakeTable.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/CMakeFiles/RUN_TESTS.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step6_build/MathFunctions/CMakeFiles/INSTALL.dir

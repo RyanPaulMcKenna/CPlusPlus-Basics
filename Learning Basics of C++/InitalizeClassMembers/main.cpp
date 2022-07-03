@@ -22,10 +22,10 @@ Dog::Dog(int age, int weight, string colour) // constructor method implementatio
         this-> weight = weight;
         this-> colour = colour;
     }
-    Dog::~Dog() // Associated de-constructor method implementation.
-    {
-        cout << "Object destroyed." << endl;
-    }
+Dog::~Dog() // Associated de-constructor method implementation.
+{
+    cout << "Object destroyed." << endl;
+}
 int main()
 {
 

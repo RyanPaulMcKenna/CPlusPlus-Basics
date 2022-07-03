@@ -1,0 +1,42 @@
+what is the compiler, linker and loader?
+
+Simplified
+----------------------------------------------------Diagram 1--------------------------------------------------------------------------
+[Source Code] ---> Compiler ---> [Object code] --*
+                                                 |
+[Source Code] ---> Compiler ---> [Object code] --*--> Linker --> [Executable] ---> Loader
+                                                 |                                    |
+[Source Code] ---> Compiler ---> [Object code] --*                                    |
+                                                 |                                    |
+                                 [Library file]--*                                    V
+                                                                       [Running Executable in Memory]
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Diagram 2 ----------------------------------------------------------------------------
+                                                Editor Or Ide (Write source code)
+                                                    |
+                                                    |   (.cpp, .h) Source Code, header files
+                                                    V
+                                                Preprocessor
+                                                    |
+                                                    |   (*.ii) Included Files, Replaced Symbols
+                                                    V
+                                                Compiler; Tokenizer, lexical analyzer, semantic analyzer, abstract syntax tree.
+                                                    |
+                                                    |   (*.s) assembly code
+                                                    V
+                                                Assembler
+                                                    |
+                                                    |   (*.o) Object Code
+                                                    V
+           Static Libraries (.Lib, .a)            Linker
+                                                    |
+                                                    |   (.exe)
+                                                    V
+            Dynamic Libraries (.dll, .so)         Loader
+                                                    |
+                                                    |
+                                                    V
+                                                Operating System
+-----------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,12 @@
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/Tutorial.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/PACKAGE.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/RUN_TESTS.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/INSTALL.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/CMakeFiles/ZERO_CHECK.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/MakeTable.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/SqrtLibrary.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/PACKAGE.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/RUN_TESTS.dir
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step12/release/MathFunctions/CMakeFiles/INSTALL.dir

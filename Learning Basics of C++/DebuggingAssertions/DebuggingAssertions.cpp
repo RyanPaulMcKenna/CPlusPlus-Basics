@@ -20,7 +20,7 @@ int main()
 
 int num = 9; ASSERT(num < 10);
 num ++; ASSERT(num < 10);
-cout << "DATE" ":  "__DATE__ << "   " << "TIME" << ":  " << __TIME__ << endl;
+cout << "DATE" ":  " <<__DATE__ << "   " << "TIME" << ":  " << __TIME__ << endl;
 return 0;
 }
 

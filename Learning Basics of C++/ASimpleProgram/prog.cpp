@@ -11,6 +11,6 @@ int main()
 cout << endl << "NUM is:" << NUM << endl;
 cout << "Double NUM: " << ((NUM) * 2) << endl;
 
-system('pause');
+system("pause");
 return 0;
 }

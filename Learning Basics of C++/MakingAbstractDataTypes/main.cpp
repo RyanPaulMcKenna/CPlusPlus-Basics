@@ -13,7 +13,7 @@ class Rect : public Shape // Derived Class.
 private:
     int height, width;
 public:
-    Rect( int initHeight, int initWidth) // Public constructor passes private base class variables to derived class for arguments.
+Rect( int initHeight, int initWidth) // Public constructor passes private base class variables to derived class for arguments.
 {
     height = initHeight; // Be careful to keep variables on their aliases on the same side or else program will function incorrectly without errors.
     width = initWidth;

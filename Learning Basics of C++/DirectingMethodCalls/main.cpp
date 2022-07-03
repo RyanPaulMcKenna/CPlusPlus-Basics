@@ -31,5 +31,8 @@ int main()
     pChicken -> fly();
     pPigeon -> Bird::talk(); // Call Base class explicitly with scope resolution operator.
     pChicken -> Bird::fly(); // Inappropriate call.
+    
+    int x;
+    std::cin >> x;
     return 0;
 }

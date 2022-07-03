@@ -1,0 +1,354 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Fri Jul 01 21:47:35 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+PLANTUML = C:\plantUML\plantuml1.jar
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/Users/admin/Desktop/projects/cpp-Basics
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+NVM_HOME = C:\Users\admin\AppData\Roaming\nvm
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.RB;.RBW
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\admin\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+NVM_SYMLINK = C:\Program Files\nodejs
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ab22fd3f-4cb9-44ba-b9de-4a5d7f84f54c-sock
+# environment
+VSCODE_CWD = C:\Users\admin\AppData\Local\Programs\Microsoft VS Code
+# environment
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2020b\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\admin\AppData\Local\Programs\MiKTeX\miktex\bin\x64\miktex-texworks.exe;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenJDK\openjdk-11.0.15_10\bin;C:\Users\admin\AppData\Roaming\nvm;C:\Program Files\nodejs;D:\Go\bin;D:\pandoc\;C:\Users\admin\.cargo\bin;C:\Ruby30-x64\bin;C:\Users\admin\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\admin\AppData\Local\Programs\Python\Python39\;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\admin\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\heroku\bin;C:\Users\admin\.dotnet\tools;C:\opencv\build\x64\vc15\bin;C:\Users\admin\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\CMake\bin;C:\Program Files\Cppcheck;C:\Users\admin\AppData\Roaming\npm;C:\Users\admin\AppData\Local\Android\Sdk\platform-tools;C:\Users\admin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\admin\go\bin;D:\Espanso;C:\ghcup\bin;C:\Program Files\OpenCppCoverage;C:\Program Files (x86)\graphviz\bin;;C:\Users\admin\AppData\Local\cloud-code\installer\google-cloud-sdk\bin;C:\Users\admin\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+GHCUP_INSTALL_BASE_PREFIX = C:\
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132980406331666518
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+ONEDRIVE = C:\Users\admin\OneDrive
+# environment
+USERPROFILE = C:\Users\admin
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = C:\Users\admin\go
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 16
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+ANDROID_HOME = C:\Users\admin\AppData\Local\Android\Sdk
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# environment
+CABAL_DIR = C:\cabal
+# environment
+CLOUDSDK_METRICS_ENVIRONMENT = cloudcode.vscode
+# automatic
+%F = $(notdir $%)
+# default
+MAKEFILES := 
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22420_VXRUKSIRZXEZETCL
+# environment
+CLOUDSDK_METRICS_ENVIRONMENT_VERSION = 1.18.3
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = DESKTOP-1AE06QR
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = admin
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\admin\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\DESKTOP-1AE06QR
+# environment
+ONEDRIVECONSUMER = C:\Users\admin\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DESKTOP-1AE06QR
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+JAVA_HOME = C:\Program Files\OpenJDK\openjdk-11.0.15_10
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\admin\AppData\Local
+# environment
+PSMODULEPATH = C:\Users\admin\Documents\WindowsPowerShell\Modules;C:\Users\admin\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\40c024692924a7e0e09c00bf44e8c2ef-1.68.1-main-sock
+# environment
+HOMEPATH = \Users\admin
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\admin\AppData\Roaming
+# environment
+TEMP = C:\Users\admin\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+GRAPHVIZ_DOT = C:\Program Files (x86)\graphviz\bin\dot.exe
+# environment
+VCPKG_DEFAULT_TRIPLET = x64-windows
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = a505
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 22420
+# environment
+DESKTOP = C:\Users\admin\Desktop
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-1AE06QR
+# variable set hash-table stats:
+# Load=105/1024=10%, Rehash=0, Collisions=13/122=11%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# : could not be stat'd.
+# C:\Program Files\heroku\bin (key C:/Program Files/heroku/bin, mtime 1628538520): 4 files, no impossibilities.
+# C:\Program Files\Common Files\Oracle\Java\javapath (key C:/Program Files/Common Files/Oracle/Java/javapath, mtime 1638795977): 6 files, no impossibilities.
+# C:\Program Files\Docker\Docker\resources\bin (key C:/Program Files/Docker/Docker/resources/bin, mtime 1627502718): 13 files, no impossibilities.
+# C:\Users\admin\.cargo\bin (key C:/Users/admin/.cargo/bin, mtime 1652052986): 15 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Microsoft\WindowsApps (key C:/Users/admin/AppData/Local/Microsoft/WindowsApps, mtime 1656606483): 17 files, no impossibilities.
+# C:\Program Files\OpenCppCoverage (key C:/Program Files/OpenCppCoverage, mtime 1655397452): 27 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Programs\Python\Python39\ (key C:/Users/admin/AppData/Local/Programs/Python/Python39/, mtime 1618529198): 20 files, no impossibilities.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1647652927): 32 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1655348012): 173 files, no impossibilities.
+# . (key c:/Users/admin/Desktop/projects/cpp-Basics, mtime 1653962195): 13 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Programs\Python\Python39\Scripts\ (key C:/Users/admin/AppData/Local/Programs/Python/Python39/Scripts/, mtime 1650104765): 102 files, no impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1638575779): 12 files, no impossibilities.
+# C:\ProgramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1653346203): 11 files, no impossibilities.
+# C:\Program Files\dotnet\ (key C:/Program Files/dotnet/, mtime 1653235832): 11 files, no impossibilities.
+# C:\Python310\ (key C:/Python310/, mtime 1654700738): 18 files, no impossibilities.
+# C:\Users\admin\go\bin (key C:/Users/admin/go/bin, mtime 1654644838): 3 files, no impossibilities.
+# C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin: could not be stat'd.
+# C:\Python310\Scripts\ (key C:/Python310/Scripts/, mtime 1654700738): 5 files, no impossibilities.
+# C:\Users\admin\AppData\Roaming\npm (key C:/Users/admin/AppData/Roaming/npm, mtime 1654626050): 21 files, no impossibilities.
+# C:\Program Files (x86)\graphviz\bin (key C:/Program Files (x86)/graphviz/bin, mtime 1656554348): 14 files, no impossibilities.
+# C:\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1653571965): 13 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Android\Sdk\platform-tools (key C:/Users/admin/AppData/Local/Android/Sdk/platform-tools, mtime 1652792881): 18 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Programs\MiKTeX\miktex\bin\x64\miktex-texworks.exe (key C:/Users/admin/AppData/Local/Programs/MiKTeX/miktex/bin/x64/miktex-texworks.exe, mtime 1604155030): could not be opened.
+# C:\Users\admin\AppData\Local\Programs\MiKTeX\miktex\bin\x64\ (key C:/Users/admin/AppData/Local/Programs/MiKTeX/miktex/bin/x64/, mtime 1644851939): 669 files, no impossibilities.
+# C:\Program Files\MATLAB\R2020b\bin (key C:/Program Files/MATLAB/R2020b/bin, mtime 1603310319): 14 files, no impossibilities.
+# C:\Windows\System32\OpenSSH\: could not be stat'd.
+# C:\Program Files\PuTTY\ (key C:/Program Files/PuTTY/, mtime 1650132834): 12 files, no impossibilities.
+# C:\Strawberry\c\bin (key C:/Strawberry/c/bin, mtime 1604850096): 115 files, no impossibilities.
+# C:\Program Files\OpenJDK\openjdk-11.0.15_10\bin (key C:/Program Files/OpenJDK/openjdk-11.0.15_10/bin, mtime 1650580054): 125 files, no impossibilities.
+# C:\Strawberry\perl\bin (key C:/Strawberry/perl/bin, mtime 1604850111): 174 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1614714027): 124 files, no impossibilities.
+# C:\Users\admin\AppData\Local\cloud-code\installer\google-cloud-sdk\bin (key C:/Users/admin/AppData/Local/cloud-code/installer/google-cloud-sdk/bin, mtime 1656551700): 30 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/, mtime 1653236312): 7 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin (key C:/Users/admin/AppData/Local/Google/Cloud SDK/google-cloud-sdk/bin, mtime 1649284505): 20 files, no impossibilities.
+# C:\Strawberry\perl\site\bin (key C:/Strawberry/perl/site/bin, mtime 1604850093): 2 files, no impossibilities.
+# C:\Ruby30-x64\bin (key C:/Ruby30-x64/bin, mtime 1619392355): 43 files, no impossibilities.
+# C:\ProgramData\DockerDesktop\version-bin (key C:/ProgramData/DockerDesktop/version-bin, mtime 1627502767): 2 files, no impossibilities.
+# C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/admin/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1655381383): 4 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1601730065): 8 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1656683725): 3061 files, no impossibilities.
+# D:\Espanso (key D:/Espanso, mtime 1654822283): 16 files, no impossibilities.
+# D:\Go\bin (key D:/Go/bin, mtime 1654644642): 4 files, no impossibilities.
+# C:\opencv\build\x64\vc15\bin (key C:/opencv/build/x64/vc15/bin, mtime 1635038987): 12 files, no impossibilities.
+# C:\Program Files\CMake\bin (key C:/Program Files/CMake/bin, mtime 1649614444): 7 files, no impossibilities.
+# C:\Users\admin\.dotnet\tools: could not be stat'd.
+# D:\pandoc\ (key D:/pandoc/, mtime 1654647459): 6 files, no impossibilities.
+# C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin: could not be stat'd.
+# C:\ghcup\bin (key C:/ghcup/bin, mtime 1655133995): 96 files, no impossibilities.
+# C:\Program Files\Cppcheck (key C:/Program Files/Cppcheck, mtime 1651021828): 27 files, no impossibilities.
+# C:\Users\admin\AppData\Roaming\nvm (key C:/Users/admin/AppData/Roaming/nvm, mtime 1653571965): 11 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\130\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/130/Tools/Binn/, mtime 1653236265): 4 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1628509482): 5 files, no impossibilities.
+
+# 5146 files, no impossibilities in 53 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 0
+# # of strcache buffers: 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
+# strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
+
+# Finished Make data base on Fri Jul 01 21:47:35 2022
+
+ 
+make.exe: *** No rule to make target `all'.  Stop.
+

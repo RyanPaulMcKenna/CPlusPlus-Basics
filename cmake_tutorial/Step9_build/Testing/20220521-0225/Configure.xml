@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20220521-0225-Experimental"
+	Name="DESKTOP-1AE06QR"
+	Generator="ctest-3.23.0"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.29.30136.0"
+	OSName="Windows"
+	Hostname="DESKTOP-1AE06QR"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19044)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="39025"
+	TotalPhysicalMemory="32676"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2904"
+	>
+	<Configure>
+		<StartDateTime>May 21 03:25 GMT Summer Time</StartDateTime>
+		<StartConfigureTime>1653099919</StartConfigureTime>
+		<ConfigureCommand>"C:/Program Files/CMake/bin/cmake.exe" "C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9"</ConfigureCommand>
+		<Log>-- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.19044.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step9_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>May 21 03:25 GMT Summer Time</EndDateTime>
+		<EndConfigureTime>1653099920</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

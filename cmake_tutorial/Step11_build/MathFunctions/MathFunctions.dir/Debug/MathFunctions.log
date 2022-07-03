@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step11/MathFunctions/CMakeLists.txt
+  MathFunctions.cxx
+     Creating library C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step11_build/Debug/MathFunctions.lib and object C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step11_build/Debug/MathFunctions.exp
+  MathFunctions.vcxproj -> C:\Users\admin\Desktop\cpp-Basics\cmake_tutorial\Step11_build\Debug\MathFunctions.dll

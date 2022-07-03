@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/ce11264917523119b51a19fa80211450/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/334309bf533001fe6d8abc0ad178c4e6/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/my_google_test_project/my_project/build/_deps/googletest-subbuild/CMakeFiles/198e4054b2edd630b01542d0fc0ae720/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

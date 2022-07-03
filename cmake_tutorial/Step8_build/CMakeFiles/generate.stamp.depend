@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.23/Modules/InstallRequiredSystemLibraries.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.23/Templates/CPackConfig.cmake.in
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/CMakeLists.txt
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/CTestConfig.cmake
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8/TutorialConfig.h.in
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8_build/CMakeFiles/3.23.0/CMakeCCompiler.cmake
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8_build/CMakeFiles/3.23.0/CMakeCXXCompiler.cmake
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8_build/CMakeFiles/3.23.0/CMakeRCCompiler.cmake
+C:/Users/admin/Desktop/cpp-Basics/cmake_tutorial/Step8_build/CMakeFiles/3.23.0/CMakeSystem.cmake

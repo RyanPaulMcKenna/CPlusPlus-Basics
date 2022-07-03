@@ -35,6 +35,6 @@ ptrGrandchild -> identify(); // Call to overriding method, Grandchild version!
 ptrChild -> Parent::common(); // Call Base class method explicitly using scope resolution operator.
 ptrChild -> Parent::identify(); // Call Base class method explicitly using scope resolution operator.
 grandson.relate(); // Call final derived classes unique method without the need for a pointer.
-ptrGrandchild -> relate(); // Cannot use in this context as base class pointer does not have a version of this method.
+// ptrGrandchild->relate(); // Cannot use in this context as base class pointer does not have a version of this method.
     return 0;
 }
